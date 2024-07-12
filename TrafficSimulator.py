@@ -165,3 +165,4 @@ if (avgStratThree < avgStratOne and avgStratThree < avgStratTwo):
     print("Strategy 3 was optimal with an average time",
     "of {:.2f} seconds.".format(avgStratThree))
     
+test = ''
