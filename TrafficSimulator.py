@@ -166,3 +166,5 @@ if (avgStratThree < avgStratOne and avgStratThree < avgStratTwo):
     "of {:.2f} seconds.".format(avgStratThree))
     
 test = ''
+
+test2 = ''
